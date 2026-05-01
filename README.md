@@ -4,6 +4,8 @@
 
 
 
+![[Pasted image 20260501195418.png]](AD-LES OU-1.png)
+
 
 
 
@@ -11,6 +13,8 @@
 
 
 
+
+![[Pasted image 20260501201806.png]](AD-Les OU-2.png)
 
 
 
@@ -20,18 +24,25 @@
 
 
 
+![[Pasted image 20260501201546.png]](AD-Les OU-3.png)
 
 
 
-#### Il est bien dans le groupe GrpComputersStudents
+
+#### Le client est bien dans le groupe GrpComputersStudents
 
 
 
+
+![[Pasted image 20260501202641.png]](AD-Les OU-4.png)
 
 
 
 
 #### Résultat de la commande whoami
 
+
+
+![[Pasted image 20260501203336.png]](AD-Les OU-5.png)
 
 
